@@ -52,3 +52,9 @@ It has significantly enhanced my knowledge of data protection and the importance
 The Advanced Encryption Tool developed during this task is not just a project but a practical demonstration of how even small utilities can play a big role in safeguarding sensitive data. It brings together key cybersecurity concepts—confidentiality, integrity, and controlled access—in one neat package, aligned with industry practices.
 
 #Output
+
+![Image](https://github.com/user-attachments/assets/756d0b18-edc9-4c8f-97b3-d72bfd972baa)
+
+![Image](https://github.com/user-attachments/assets/748bfde2-080f-4a24-b6eb-f04d2899af8d)
+
+
